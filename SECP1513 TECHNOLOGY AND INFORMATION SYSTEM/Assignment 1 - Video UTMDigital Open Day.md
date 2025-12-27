@@ -16,7 +16,11 @@ VENUE : UTMDigital Building
 > This event was eye-opening to us computer science students however, it could be even better if the vanue is more spacious for the sake of everyone's comfort.
 
 ## Video
-[Click here] ()to watch Group 2 short vlog at UTMDigital Open Day.
+[Click here](https://github.com/user-attachments/assets/96916d99-668d-4bbe-9bbd-7f5aacf5bd3d) to watch Group 2 short vlog at UTMDigital Open Day.
+
+
+
+
 
 ## Photos
 
