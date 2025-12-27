@@ -4,7 +4,7 @@
 # Industrial Visit 1 : UTMDIGITAL OPEN DAY
 DATE : 28 - 29 October 2025
 
-VANUE : UTMDigital Building
+VENUE : UTMDigital Building
 </div>
         
 ## Reflection
