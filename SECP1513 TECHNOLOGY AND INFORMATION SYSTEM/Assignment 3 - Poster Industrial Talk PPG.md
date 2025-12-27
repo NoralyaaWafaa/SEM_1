@@ -4,7 +4,7 @@
 # Industrial Talk 1 : PPG COMPANY
 DATE : 20 November 2025
 
-VANUE : 
+Hybrid Industry Talk 
 </div>
         
 ## Reflection
