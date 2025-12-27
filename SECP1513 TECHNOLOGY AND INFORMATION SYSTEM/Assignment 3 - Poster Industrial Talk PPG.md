@@ -14,7 +14,7 @@ Hybrid Industry Talk
 > network security department play a crucial roles in achieving the company's vision and mission. Beside that, I gained new knowledge about Global Marine Hull
 > Navigator, which is one of the analytical tools that have been used by the Data Analytics department to predict and detect issues. In conclusion, this online talk
 > session provided valuable information into real-world career opportunities and responsibilites to consider when shaping my future career path. I would like to
-> extend my appreciation to PPG company for such an insightful sharing and for UTM for organizing such an educational session.
+> extend my appreciation to PPG company for such an insightful sharing and to UTM for organizing such an educational session.
 
 
 ## Poster
