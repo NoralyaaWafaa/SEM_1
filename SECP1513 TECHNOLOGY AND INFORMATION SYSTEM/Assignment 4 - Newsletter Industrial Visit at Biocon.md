@@ -1,10 +1,25 @@
 <div align="justify">
 <div align="center">
 
-# Industrial Talk 1 : PPG COMPANY
-DATE : 20 November 2025
+# Industrial Visit 2 : BIOCON COMPANY
+DATE : 23 December 2025
 
-VANUE : 
+VENUE : Biocon Sdn. Bhd., Malaysia
 </div>
         
 ## Reflection
+>
+
+
+## Newsletter
+
+
+## Photos
+
+![WhatsApp Image 2025-12-28 at 00 02 32_a8b47612](https://github.com/user-attachments/assets/33e9e1a3-102c-499c-a0f9-1acfffc0e2c3)
+
+
+![WhatsApp Image 2025-12-27 at 23 59 45_1ed666d9](https://github.com/user-attachments/assets/a0e131f2-e7a5-4b0d-baf2-3d44cb9ba3cf)
+
+
+![WhatsApp Image 2025-12-27 at 23 59 45_4d9fe989](https://github.com/user-attachments/assets/5e0fe8a4-bb3e-4dc8-b051-e342c0c54917)
