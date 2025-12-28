@@ -8,7 +8,7 @@ Hybrid Industry Talk
 </div>
         
 ## Reflection
-> On 20 November, PPG company held an online session with UTM students via Webex. The talk was meant to introduce the company's background, discuss reponsibilites of
+> On 20 November, PPG company held an online session with UTM students via Webex. The talk was meant to introduce the company's background, discuss reponsibilities of
 > a few key sectors, to emphasizing the importance of Information Communication Technology ( ICT ) in today's modern industry. Through this talk session, I gained
 > exposure to the work scope of various departments such that SAP, Infrastucture and Data Analytics. It became clear that these departments alongside
 > network security department play a crucial roles in achieving the company's vision and mission. Beside that, I gained new knowledge about Global Marine Hull
