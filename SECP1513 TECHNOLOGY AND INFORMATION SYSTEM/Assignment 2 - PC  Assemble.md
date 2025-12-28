@@ -11,9 +11,9 @@ VENUE : Software Innovation Lab
 
 > In this session, students were seated in groups and provided a PC to practice assemble and disassemble. Under the guidence of the lab assistants we succesfully
 > completed each procedure. Through this hands-on session I get to know how to manage sensitive computer components or ESD-sensitive components such as RAM and CPU
-> with caution. Furthermore, I get to experienced assembling, disassembling, component verification and testing a functional PC along with the importance of
-> documentation and double checking the actions. Overall, this was a valuable learning experience and I would like to thank Dr. Azurah for providing this great
-> opportunity.
+> with caution. Furthermore, I get to experienced assembling, disassembling, component verification and testing a functional PC along with understanding the
+> importance of documentation and double checking the actions. Overall, this was a valuable learning experience and I would like to thank Dr. Azurah for providing
+> this great opportunity.
 
  ## Photos
 
