@@ -13,7 +13,7 @@ VENUE : Biocon Sdn. Bhd., Malaysia
 > drug substance, R&D and drugs product. Through this visit, I have gained new perspectives on the significance and contribution of modern technologies into the
 > medical field. I learned the significance of time-to-time monitoring. In the production process, every phase were documented and analyzed to ensure the
 > manufactured products meet international quality standards. These standards have been established by organizations like International Council for Harmonisation
-> (ICH) and World Health Organization (WHO).
+> (ICH) and World Health Organization (WHO). Therefore, I would like to extend my appreciation to Biocon company for such an insightful sharing and remarkable visit.
 
 
 ## Newsletter
