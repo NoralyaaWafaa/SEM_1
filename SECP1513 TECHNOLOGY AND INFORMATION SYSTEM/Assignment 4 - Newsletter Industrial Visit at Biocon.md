@@ -8,8 +8,10 @@ VENUE : Biocon Sdn. Bhd., Malaysia
 </div>
         
 ## Reflection
->
-
+> On 23 December, two section under the supervision of Dr. Azurah has visited a biotechnology company that manufactured devices for human insulin and insulin
+> analogs located in Iskandar Puteri, Johor. During this visit students and lecturers had been devided into three group to explore different departments which is
+> drug substance, R&D and drugs product. Through this visit, I have gained new perspectives on the significance and contribution of modern technologies into the
+> medical field.
 
 ## Newsletter
 
