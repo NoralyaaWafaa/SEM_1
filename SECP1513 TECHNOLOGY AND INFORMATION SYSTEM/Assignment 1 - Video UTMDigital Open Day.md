@@ -15,14 +15,17 @@ VENUE : UTMDigital Building
 > I believe this information has opened new avenues and allowed me to outline new goals for my career path.
 > This event was eye-opening to us computer science students however, it could be even better if the vanue is more spacious for the sake of everyone's comfort.
 
-## Video
+
+## Documentation
+
+### Video
 [Click here](https://github.com/user-attachments/assets/96916d99-668d-4bbe-9bbd-7f5aacf5bd3d) to watch the Group 2 short vlog at UTMDigital Open Day.
 
 
 
 
 
-## Photos
+### Photos
 
 ![photo_2025-12-27_18-11-13](https://github.com/user-attachments/assets/e8471ec6-76de-4f27-8ffb-6a7eca59924d)
 
