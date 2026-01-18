@@ -25,7 +25,8 @@ Founded in 1883 and headquartered in Pittsburgh, Pennsylvania, PPG Industries is
 ## Documentation
 ### Poster
 
-<img width="1587" height="2245" alt="Blue and White Modern Brand Building Poster" src="https://github.com/user-attachments/assets/2ba96761-b2c7-4018-b317-78c6d867b977" />
+[PPG Poster](https://drive.google.com/file/d/1KNJb3yQjue3yC_xdCtZbYaC-8VQjbfrr/view?usp=drive_link)
+
 
 ### Photos
 
