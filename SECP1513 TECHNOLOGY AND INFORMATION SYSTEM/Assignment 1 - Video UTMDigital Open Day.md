@@ -20,7 +20,7 @@ VENUE : UTMDigital Building
 
 ### Video
 
-[Short Vlog](https://drive.google.com/drive/folders/14K4T1QkFoNXkCNVBVBIetMK9miJaj8D0?usp=drive_link)
+[Short Vlog](https://drive.google.com/file/d/1SmzVHx9eTXjHuoPRWwAsyCXHCyBuIbEl/view?usp=drive_link)
 
 <p align="center">
   <video src="https://github.com/NoralyaaWafaa/SEM_1/releases/download/v1.0/video_2025-12-27_18-13-57.mp4" width="450" controls>
