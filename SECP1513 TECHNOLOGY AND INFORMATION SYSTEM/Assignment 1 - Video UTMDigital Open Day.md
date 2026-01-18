@@ -19,9 +19,8 @@ VENUE : UTMDigital Building
 ## Documentation
 
 ### Video
-[Click here](https://github.com/user-attachments/assets/96916d99-668d-4bbe-9bbd-7f5aacf5bd3d) to watch the Group 2 short vlog at UTMDigital Open Day.
 
-
+[Click here to watch the Group 2 short vlog at UTMDigital Open Day](https://github.com/user-attachments/assets/96916d99-668d-4bbe-9bbd-7f5aacf5bd3d)
 
 
 
@@ -32,6 +31,8 @@ VENUE : UTMDigital Building
 ![photo_2025-12-27_18-12-22](https://github.com/user-attachments/assets/9e7f8eaf-2832-4307-8aff-5d834f6471f0)
 
 ![photo_2025-12-27_18-12-04](https://github.com/user-attachments/assets/d7006675-5509-45ee-8980-d0e6cb47947e)
+
+
 
 
 
