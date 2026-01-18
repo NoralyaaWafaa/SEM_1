@@ -9,7 +9,9 @@ Hybrid Industry Talk
 
 ## Company Profiles
 ### 🎨PPG Industries
-> Founded in 1883 and headquartered in Pittsburgh, Pennsylvania, PPG Industries is a key player in the global manufacturing landscape speciallizing in paints and coatings. PPG is recognized for its "Science, Technology and Eco-friendly " approach. Creating coatings that protect everything from airplanes to laptops, while reducing carbon footprint through "cool roof" coatings.
+**Industry:** Paints, Coatings and Specialty Materials
+
+Founded in 1883 and headquartered in Pittsburgh, Pennsylvania, PPG Industries is a key player in the global manufacturing landscape. This company is recognized for its Science, Technology and Eco-friendly  approach. Creating coatings that protect everything from airplanes to laptops, while reducing carbon footprint through "cool roof" coatings.
         
 ## Reflection
 > On 20 November, PPG company held an online session with UTM students via Webex. The talk was meant to introduce the company's background, discuss responsibilities of
