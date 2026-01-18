@@ -20,7 +20,11 @@ VENUE : UTMDigital Building
 
 ### Video
 
-[Click here to watch the Group 2 short vlog at UTMDigital Open Day](https://github.com/user-attachments/assets/96916d99-668d-4bbe-9bbd-7f5aacf5bd3d)
+<p align="center">
+  <video src="https://github.com/NoralyaaWafaa/SEM_1/releases/download/v1.0/video_2025-12-27_18-13-57.mp4" width="450" controls>
+Your browser does not support the video tag.
+  </video>
+</p>
 
 
 
