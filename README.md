@@ -1,4 +1,4 @@
-Academic Year : 2024 / 2025
+Academic Year : 2025 / 2026
 
 Program Code : 1/SECRH
 
