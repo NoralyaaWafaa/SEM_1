@@ -20,12 +20,12 @@ VENUE : UTMDigital Building
 
 ### Video
 
+
 <p align="center">
-  <video src="https://github.com/NoralyaaWafaa/SEM_1/releases/download/v1.0/video_2025-12-27_18-13-57.mp4" width="450" controls>
-Your browser does not support the video tag.
+  <video src="https://github.com/NoralyaaWafaa/SEM_1/releases/download/v1.0/video_2025-12-27_18-13-57.mp4" width="450"         controls>
+     Your browser does not support the video tag.
   </video>
 </p>
-
 
 
 ### Photos
