@@ -9,7 +9,11 @@ VENUE : Biocon Sdn. Bhd., Malaysia
 
 ## Company Profiles
 ### 🧬Biocon Biologics
+
 **Industry:** Biopharmaceuticals / Biotechnology
+
+Founded in 1978 and headquartered in India, Biocon's facility in Iskandar Puteri, Johor, Malaysia, is the company's first overseas manufacturing and R&D outpost. This outpost specializes in the production of devices for human insulin and insulin analogs, and it remains Asia's largest integrated insulin facility.
+
 
 
 
