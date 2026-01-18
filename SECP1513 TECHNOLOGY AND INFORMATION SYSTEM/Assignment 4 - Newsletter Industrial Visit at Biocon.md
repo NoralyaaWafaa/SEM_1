@@ -29,7 +29,7 @@ Founded in 1978 and headquartered in India, Biocon's facility in Iskandar Puteri
 
 ## Documentation
 ### Newsletter
-[Biocon Newsletter](https://drive.google.com/drive/folders/14K4T1QkFoNXkCNVBVBIetMK9miJaj8D0?usp=drive_link)
+[Biocon Newsletter](https://drive.google.com/file/d/18lSc0eAcuDiR_U6YEGqJSNpdAfRJ46bp/view?usp=drive_link)
 
 
 
