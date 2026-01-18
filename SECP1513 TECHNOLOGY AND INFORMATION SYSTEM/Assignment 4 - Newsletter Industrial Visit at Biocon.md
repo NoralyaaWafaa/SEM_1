@@ -20,12 +20,7 @@ Founded in 1978 and headquartered in India, Biocon's facility in Iskandar Puteri
 
 
 ## Reflection
-> On 23 December, two section of students under the supervision of Dr. Azurah has visited a biotechnology company that specializes in manufacturing devices for human insulin and insulin
-> analogs located in Iskandar Puteri, Johor. During this visit students and lecturers had been divided into three group to explore different departments which is
-> drug substance, R&D and drugs product. Through this visit, I have gained new perspectives on the significance and contribution of modern technologies into the
-> medical field. I learned the significance of time-to-time monitoring. In the production process, every phase were documented and analyzed to ensure the
-> manufactured products meet international quality standards. These standards have been established by organizations like International Council for Harmonisation
-> (ICH) and World Health Organization (WHO). Therefore, I would like to extend my appreciation to Biocon company for such an insightful sharing and remarkable visit.
+> On 23 December, two section of students under the supervision of Dr. Azurah has visited a biotechnology company in Iskandar Puteri, Johor. During this visit students and lecturers had been divided into three group to explore different departments which is drug substance, R&D and drugs product. Through this visit, I have gained new perspectives on the significance and contribution of modern technologies into the medical field. I learned the significance of time-to-time monitoring. In the production process, every phase were documented and analyzed to ensure the manufactured products consistence and meet the international quality standards. These standards have been established by organizations like International Council for Harmonisation (ICH) and World Health Organization (WHO). For instance in upstream processing, Biocon uses computer-based monitoring systems to control key bioprocess parameters such as temperature and pH. Moving forward, I realised that the purpose of computing system and automated manufacturing in large-scale production is to ensure smooth operations and reduce the human error, especially within the healthcare and pharmaceutical industries. Therefore, I would like to extend my appreciation to Biocon company for such an insightful sharing and remarkable visit. 
 
 ## Documentation
 ### Newsletter
