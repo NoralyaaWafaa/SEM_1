@@ -6,7 +6,15 @@ DATE : 23 December 2025
 
 VENUE : Biocon Sdn. Bhd., Malaysia
 </div>
-        
+
+## Company Profiles
+### 🧬Biocon Biologics
+**Industry:** Biopharmaceuticals / Biotechnology
+
+
+
+
+
 ## Reflection
 > On 23 December, two section of students under the supervision of Dr. Azurah has visited a biotechnology company that specializes in manufacturing devices for human insulin and insulin
 > analogs located in Iskandar Puteri, Johor. During this visit students and lecturers had been divided into three group to explore different departments which is
@@ -15,11 +23,14 @@ VENUE : Biocon Sdn. Bhd., Malaysia
 > manufactured products meet international quality standards. These standards have been established by organizations like International Council for Harmonisation
 > (ICH) and World Health Organization (WHO). Therefore, I would like to extend my appreciation to Biocon company for such an insightful sharing and remarkable visit.
 
+## Documentation
+### Newsletter
+[Biocon Newsletter](https://github.com/user-attachments/files/24694593/Introduction.pdf)
 
-## Newsletter
 
 
-## Photos
+
+### Photos
 
 ![WhatsApp Image 2025-12-28 at 00 02 32_a8b47612](https://github.com/user-attachments/assets/33e9e1a3-102c-499c-a0f9-1acfffc0e2c3)
 
